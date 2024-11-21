@@ -8,6 +8,7 @@
 
 Click on the following link to check out the collab file.
 - [Colab](https://colab.research.google.com/drive/10xH6s_52oEXWQqZsKOOzI8J-2PZ7uHxJ)
+- [Video](https://drive.google.com/file/d/1X_hWXjI7gSZInUFB8KKioFiiL2PKPoyQ/view?usp=sharing)
 
 
 ---
